@@ -1,7 +1,7 @@
-# 104intersection_2019
+# 104intersection_2020
 
 ## Description
-Maths 104intersection Epitech 2019
+Maths 104intersection Epitech 2020
 
 To create synthesis images (when doing ray tracing, for example), potential intersection points between
 light rays and scene objects (here cylinders, spheres and cones) must be computed. This is exactly what
